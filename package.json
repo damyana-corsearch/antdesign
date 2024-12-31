@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@storybook/preset-ant-design": "^0.0.2",
+    "storybook": "^8.4.7"
+  }
+}
