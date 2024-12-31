@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@storybook/preset-ant-design": "^0.0.2",
+    "ant-design": "^1.0.0",
+    "create-react-app": "^5.0.1",
     "storybook": "^8.4.7"
   }
 }
